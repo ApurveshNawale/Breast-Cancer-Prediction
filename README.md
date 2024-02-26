@@ -35,7 +35,7 @@ Navigate to the project directory:
 
 
 ```bash
-  cd breast cancer prediction
+  cd breast-cancer-prediction
 ```
 
 Run the Python script:
